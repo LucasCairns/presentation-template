@@ -1,0 +1,12 @@
+baseURL = "https://PLACEHOLDER_USERNAME.github.io/PLACEHOLDER_REPOSITORY_NAME"
+languageCode = "en-us"
+title = "Presentation"
+theme = "reveal-hugo"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
