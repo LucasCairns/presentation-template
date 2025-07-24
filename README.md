@@ -40,9 +40,4 @@ GitHub Actions (using [peaceiris/actions-gh-pages@v3](https://github.com/peaceir
 Publish:
 In your repo settings, set GitHub Pages to deploy from the gh-pages branch (`/root`)
 
-## ⚡️ Quick Tips
-RevealJS options can be customized in your `config.toml`
-
-For more advanced slides, see the Reveal.js documentation
-
 Happy presenting!
